@@ -21,16 +21,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Haz clic en **"Commit changes"** → **"Commit directly to main"**
-
----
-
-### 4️⃣ Activa los permisos de Actions
-
-Ve a tu repo → **Settings → Actions → General**
-
-Baja hasta **"Workflow permissions"** y selecciona:
-```
-✅ Read and write permissions
