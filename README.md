@@ -6,7 +6,7 @@
 
 <div align="center">
 
-```typescript
+typescript
 const danzell = {
   name: "Danzell Paolo",
   username: "@danzellru2",
@@ -16,7 +16,7 @@ const danzell = {
   currentlyBuilding: "wrokhr — Sistema de RRHH",
   status: "Siempre aprendiendo 🚀"
 }
-```
+
 
 </div>
 
